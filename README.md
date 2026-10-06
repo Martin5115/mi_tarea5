@@ -1,9 +1,25 @@
 # Tarea 5: Servicio Web (Express) + Agenda React
 
-**Curso:** Programación WEB · ITLA · 2026-C-003
+**Curso:** Programación WEB 
 **Profesor:** Raydelto Hernández
 **Estudiante:** Martin Gomez
 **Matricula:** 2024-2481
+
+## Capturas de pantalla:
+
+<img width="581" height="370" alt="image" src="https://github.com/user-attachments/assets/e3e7f187-2aa1-4a0b-8264-32924b504e62" />
+
+<img width="625" height="578" alt="image" src="https://github.com/user-attachments/assets/3ccecae8-bbcb-443a-9f45-727dd686ae53" />
+
+<img width="1600" height="860" alt="image" src="https://github.com/user-attachments/assets/7b92dbde-1f90-4ba1-84b9-aa4c96a16e60" />
+
+<img width="345" height="452" alt="image" src="https://github.com/user-attachments/assets/a5b81436-3a6e-4746-abc8-ec7044da0f4c" />
+
+<img width="612" height="70" alt="image" src="https://github.com/user-attachments/assets/f2ba3246-6a18-4e50-b738-eb48e9c74951" />
+
+<img width="1600" height="860" alt="image" src="https://github.com/user-attachments/assets/4658f547-9364-4af5-acd3-0497b5d7725e" />
+
+<img width="163" height="39" alt="image" src="https://github.com/user-attachments/assets/e17225b7-fcd8-4db9-8228-5206db2cb6e0" />
 
 Servicio web hecho con **Node.js + Express** que lista y almacena contactos
 (`nombre`, `apellido`, `telefono`) usando el servicio
