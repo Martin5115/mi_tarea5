@@ -9,7 +9,9 @@
 
 <img width="581" height="370" alt="image" src="https://github.com/user-attachments/assets/e3e7f187-2aa1-4a0b-8264-32924b504e62" />
 
-<img width="625" height="578" alt="image" src="https://github.com/user-attachments/assets/3ccecae8-bbcb-443a-9f45-727dd686ae53" />
+<img width="507" height="26" alt="image" src="https://github.com/user-attachments/assets/16e52a27-9488-44ce-8eab-5a42bc1c8ba7" />
+
+<img width="426" height="215" alt="image" src="https://github.com/user-attachments/assets/bb782c7d-04bc-4f58-85c7-4fb83fd04cb2" />
 
 <img width="1600" height="860" alt="image" src="https://github.com/user-attachments/assets/7b92dbde-1f90-4ba1-84b9-aa4c96a16e60" />
 
@@ -20,6 +22,8 @@
 <img width="1600" height="860" alt="image" src="https://github.com/user-attachments/assets/4658f547-9364-4af5-acd3-0497b5d7725e" />
 
 <img width="163" height="39" alt="image" src="https://github.com/user-attachments/assets/e17225b7-fcd8-4db9-8228-5206db2cb6e0" />
+
+<img width="807" height="370" alt="image" src="https://github.com/user-attachments/assets/937eb552-0fc8-4296-9eed-f57993dc18d5" />
 
 Servicio web hecho con **Node.js + Express** que lista y almacena contactos
 (`nombre`, `apellido`, `telefono`) usando el servicio
