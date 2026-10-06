@@ -2,7 +2,8 @@
 
 **Curso:** Programación WEB · ITLA · 2026-C-003
 **Profesor:** Raydelto Hernández
-**Estudiante:** _Tu nombre y matrícula aquí_
+**Estudiante:** Martin Gomez
+**Matricula:** 2024-2481
 
 Servicio web hecho con **Node.js + Express** que lista y almacena contactos
 (`nombre`, `apellido`, `telefono`) usando el servicio
